@@ -65,4 +65,4 @@ This is a learning-focused repository, so consistency matters more than speed. P
 ---
 
 ## 👨‍💻 Author
-Created by Ahmed as part of a structured learning journey in databases and backend fundamentals.
+Ahmed Talaat
